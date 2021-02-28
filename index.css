@@ -1,0 +1,52 @@
+body {
+  text-align: center;
+  background-color: #f7f6e7;
+  color: #66BFBF;
+}
+
+#playername1 {
+  margin-top: 0;
+  font-family: 'Carter One', cursive;
+}
+
+#playername2 {
+  margin-top: 0;
+  font-family: 'Carter One', cursive;
+}
+
+div {
+  margin-top: 25px;
+  display: inline-block;
+  margin-bottom: 25px;
+}
+
+#first {
+  margin-right: 50px;
+}
+
+#second {
+  margin-left: 50px;
+}
+
+hr {
+  border-style: dotted;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  width: 15%;
+  border-width: 10px;
+}
+
+h1 {
+  font-family: 'Merienda One', cursive;
+}
+
+button {
+  font-family: 'Merienda One', cursive;
+  font-size: 25px;
+  background-color: #f7f6e7;
+  color: #66BFBF;
+}
+#scores{
+  font-family: 'Carter One', cursive;
+}
